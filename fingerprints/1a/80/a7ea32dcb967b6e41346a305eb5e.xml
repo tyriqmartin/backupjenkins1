@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:44.867 UTC</timestamp>
+  <md5sum>1a80a7ea32dcb967b6e41346a305eb5e</md5sum>
+  <fileName>org.springframework.boot:spring-boot-test-autoconfigure-2.2.4.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

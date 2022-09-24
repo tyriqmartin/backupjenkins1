@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:45.383 UTC</timestamp>
+  <md5sum>f771efbaf1e50b4def5f3e019df021be</md5sum>
+  <fileName>org.springframework.security:spring-security-web-5.2.1.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

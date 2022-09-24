@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:45.14 UTC</timestamp>
+  <md5sum>a617d0538d80949185648c9c790e60ad</md5sum>
+  <fileName>org.hibernate.common:hibernate-commons-annotations-5.1.0.Final.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

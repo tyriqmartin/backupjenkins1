@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:45.254 UTC</timestamp>
+  <md5sum>f9e49f66756f133157f19e617af26ffe</md5sum>
+  <fileName>org.apache.tomcat.embed:tomcat-embed-core-9.0.30.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:43.572 UTC</timestamp>
+  <md5sum>546b814a33d40124427225d6d1df8fd2</md5sum>
+  <fileName>org.attoparser:attoparser-2.0.5.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

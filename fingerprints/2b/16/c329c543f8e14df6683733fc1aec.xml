@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:45.333 UTC</timestamp>
+  <md5sum>2b16c329c543f8e14df6683733fc1aec</md5sum>
+  <fileName>org.mockito:mockito-junit-jupiter-3.1.0.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

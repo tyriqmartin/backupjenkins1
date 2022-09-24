@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:43.838 UTC</timestamp>
+  <md5sum>393b22c3f0c6537839229dc532bd2bdc</md5sum>
+  <fileName>org.springframework:spring-aspects-5.2.3.RELEASE.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,12-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

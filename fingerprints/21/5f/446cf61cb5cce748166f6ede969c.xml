@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-20 15:50:44.307 UTC</timestamp>
+  <original>
+    <name>git-maven-project1/com.example.maven-project:server</name>
+    <number>1</number>
+  </original>
+  <md5sum>215f446cf61cb5cce748166f6ede969c</md5sum>
+  <fileName>com.example.maven-project:server.jar</fileName>
+  <usages>
+    <entry>
+      <string>git-maven-project1/com.example.maven-project:server</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>git-maven-project1</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

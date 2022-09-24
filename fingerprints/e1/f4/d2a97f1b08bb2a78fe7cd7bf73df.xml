@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-20 15:50:44.404 UTC</timestamp>
+  <md5sum>e1f4d2a97f1b08bb2a78fe7cd7bf73df</md5sum>
+  <fileName>org.hamcrest:hamcrest-core-1.2.1.jar</fileName>
+  <usages>
+    <entry>
+      <string>git-maven-project1/com.example.maven-project:server</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>git-maven-project1</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

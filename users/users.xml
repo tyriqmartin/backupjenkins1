@@ -1,0 +1,26 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.model.UserIdMapper>
+  <version>1</version>
+  <idToDirectoryNameMap class="concurrent-hash-map">
+    <entry>
+      <string>utrains-root</string>
+      <string>utrainsroot_5694237721404981407</string>
+    </entry>
+    <entry>
+      <string>tyriqmartin100</string>
+      <string>tyriqmartin100_5201265541223639521</string>
+    </entry>
+    <entry>
+      <string>tremartin</string>
+      <string>TreMartin_3640417149769903339</string>
+    </entry>
+    <entry>
+      <string>tyrellmartin</string>
+      <string>TyrellMartin_14872900151036355368</string>
+    </entry>
+    <entry>
+      <string>nyaire</string>
+      <string>Nyaire_7432977602990522515</string>
+    </entry>
+  </idToDirectoryNameMap>
+</hudson.model.UserIdMapper>

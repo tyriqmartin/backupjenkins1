@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:44.625 UTC</timestamp>
+  <md5sum>6f7d5b8f596047aae07a3bf6f23a0bf2</md5sum>
+  <fileName>org.yaml:snakeyaml-1.25.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

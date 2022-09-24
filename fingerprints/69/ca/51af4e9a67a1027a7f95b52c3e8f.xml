@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-20 15:50:47.233 UTC</timestamp>
+  <md5sum>69ca51af4e9a67a1027a7f95b52c3e8f</md5sum>
+  <fileName>javax.servlet:servlet-api-2.5.jar</fileName>
+  <usages>
+    <entry>
+      <string>git-maven-project1/com.example.maven-project:webapp</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>git-maven-project1</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,12 @@
+Started by user [8mha:////4D6RmfbnuxbEUIz+nKcpsffrzjzQae2vH4jTPMQoJwCDAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfqlJUWJmXnFukX5+SUAwjg4iscAAAA=[0mutrains-root
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/classdemo
+[classdemo] $ /bin/sh -xe /tmp/jenkins7228328584867318480.sh
++ whoami
+jenkins
++ uname -r
+3.10.0-1160.76.1.el7.x86_64
++ pwd
+/var/lib/jenkins/workspace/classdemo
++ ls
+Finished: SUCCESS

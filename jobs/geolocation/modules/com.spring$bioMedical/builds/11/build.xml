@@ -1,0 +1,10 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.maven.MavenBuild plugin="maven-plugin@3.19">
+  <queueId>-1</queueId>
+  <timestamp>1664005031942</timestamp>
+  <startTime>0</startTime>
+  <duration>0</duration>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/var/lib/jenkins/workspace/geolocation</workspace>
+</hudson.maven.MavenBuild>

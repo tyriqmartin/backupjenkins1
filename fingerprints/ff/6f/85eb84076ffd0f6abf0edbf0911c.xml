@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-22 21:01:45.266 UTC</timestamp>
+  <md5sum>ff6f85eb84076ffd0f6abf0edbf0911c</md5sum>
+  <fileName>org.junit.vintage:junit-vintage-engine-5.5.2.jar</fileName>
+  <usages>
+    <entry>
+      <string>geolocation</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+    <entry>
+      <string>geolocation/com.spring:bioMedical</string>
+      <ranges>1-2,13-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,38 @@
+Started by user [8mha:////4D6RmfbnuxbEUIz+nKcpsffrzjzQae2vH4jTPMQoJwCDAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAweoBn6pcWpRfqlJUWJmXnFukX5+SUAwjg4iscAAAA=[0mutrains-root
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/geolocation
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /var/lib/jenkins/workspace/geolocation/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/tyriqmartin/geolocation.git # timeout=10
+Fetching upstream changes from https://github.com/tyriqmartin/geolocation.git
+ > git --version # timeout=10
+ > git --version # 'git version 1.8.3.1'
+ > git fetch --tags --progress https://github.com/tyriqmartin/geolocation.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/main^{commit} # timeout=10
+Checking out Revision 885ce9066f132ddcaedaca77913a906817ec71d7 (refs/remotes/origin/main)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 885ce9066f132ddcaedaca77913a906817ec71d7 # timeout=10
+Commit message: "pom file updated"
+ > git rev-list --no-walk 885ce9066f132ddcaedaca77913a906817ec71d7 # timeout=10
+Parsing POMs
+ERROR: Failed to parse POMs
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-parseable POM /var/lib/jenkins/workspace/geolocation/pom.xml: Duplicated tag: 'properties' (position: START_TAG seen ...</properties>\n<properties>... @20:13)  @ line 20, column 13
+
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:397)
+	at hudson.maven.MavenEmbedder.buildProjects(MavenEmbedder.java:370)
+	at hudson.maven.MavenEmbedder.readProjects(MavenEmbedder.java:340)
+	at hudson.maven.MavenModuleSetBuild$PomParser.invoke(MavenModuleSetBuild.java:1330)
+	at hudson.maven.MavenModuleSetBuild$PomParser.invoke(MavenModuleSetBuild.java:1124)
+	at hudson.FilePath.act(FilePath.java:1192)
+	at hudson.FilePath.act(FilePath.java:1175)
+	at hudson.maven.MavenModuleSetBuild$MavenModuleSetBuildExecution.parsePoms(MavenModuleSetBuild.java:985)
+	at hudson.maven.MavenModuleSetBuild$MavenModuleSetBuildExecution.doRun(MavenModuleSetBuild.java:689)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:524)
+	at hudson.model.Run.execute(Run.java:1899)
+	at hudson.maven.MavenModuleSetBuild.run(MavenModuleSetBuild.java:543)
+	at hudson.model.ResourceController.execute(ResourceController.java:107)
+	at hudson.model.Executor.run(Executor.java:449)
+Finished: FAILURE

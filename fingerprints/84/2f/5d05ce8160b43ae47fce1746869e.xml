@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-09-20 15:50:44.400 UTC</timestamp>
+  <md5sum>842f5d05ce8160b43ae47fce1746869e</md5sum>
+  <fileName>junit:junit-dep-4.10.jar</fileName>
+  <usages>
+    <entry>
+      <string>git-maven-project1/com.example.maven-project:server</string>
+      <ranges>1</ranges>
+    </entry>
+    <entry>
+      <string>git-maven-project1</string>
+      <ranges>1</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
